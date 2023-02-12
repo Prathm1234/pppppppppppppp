@@ -1,0 +1,74 @@
+body
+{
+	background-image: url("https://cdn.hipwallpaper.com/i/75/53/0cFvKO.jpg");
+}
+
+	.login_div1 , .login_div2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+		width: 30%;
+		height: 150px;
+        position:center;
+		background-color: wheat;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 3px;
+	color: tomato;
+	font-weight: bold;
+    position:center;
+}
+#word
+{
+	width: 60%;
+    position:center;
+}
+#word_display
+{
+	letter-spacing: 5px;
+    position:center;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+position:center;
+text-align: left;
+}
+h1{
+	color: orange;
+	font-family: 'Akaya Kanadaka', cursive;
+    position:center;
+}
+h3{
+	font-family: 'Lora', serif;
+	color: teal;
+    position:center;
+}
+label{
+	font-family: 'Yellowtail', cursive;
+	color: turquoise;
+    position:center;
+}
+button{
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    position:center;
+}
+input:hover{
+	background-color: yellow;
+    position:center;
+}
+div:hover{
+	border: 5px solid rgb(102, 6, 73);
+	width: 35%;
+    position:center;
+}
